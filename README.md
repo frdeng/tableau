@@ -688,8 +688,9 @@ zookeeper.20201.20.0305.1738
 /etc/systemd/logind.conf.d/tableau_server_"${version_string}".conf
 /etc/systemd/system/user-.slice.d/tableau_server_"${version_string}".conf
 ```
+### Multi-node cluster
+https://help.tableau.com/current/server-linux/en-us/distrib_ha_install_3node.htm
 
 ### Tablea for Kubernetes
 discussion - https://community.tableau.com/ideas/9630
-
 
